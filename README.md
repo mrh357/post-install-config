@@ -30,7 +30,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/mrh357/post-install-config/assets/149103675/ade2ebbe-3696-4183-8ad2-603b301262af)
 
 <h2>Configuration Steps</h2>
-![image](https://github.com/mrh357/post-install-config/assets/149103675/59f5569e-a7de-4c08-b74b-a76d8c4cba9a)
 
 <p>
 
@@ -41,8 +40,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![image](https://github.com/mrh357/post-install-config/assets/149103675/51680b6f-a17c-4a02-8a29-f29889d0a63c)
+
 </p>
+
+
+![image](https://github.com/mrh357/post-install-config/assets/149103675/c5d51800-83ba-4f01-a4ef-1504471f0f62)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
