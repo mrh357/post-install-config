@@ -22,15 +22,34 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 <h2>Post-install Configuration Objectives</h2>
-- Creating an admin help desk employee
-* Creating a helpdesk employee
+<p>
+-Creating an admin help desk employee<br /> 
+<br />
+
+-Create a help desk employee<br /> 
+<br />
+
+-create users to log in and create tickets<br /> 
+<br />
+
+-create SLA's to prioritize tickets<br /> 
+<br />
+
+-create basic reasons for tickets<br /> 
+<br />
+
+-Use http://localhost/osTicket/scp/login.php for agent logins<br /> 
+<br />
+
+-Use http://localhost/osTicket/ for user login to create tickets
+</p>
 
 
 
 <h2>Configuration Steps</h2>
 
 <p>
-1\. Login with your primary admin user account
+1. Login with your primary admin user account
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/8435cae6-69c3-4763-981f-7b6fecda212f/screenshot.jpeg?tl_px=883,279&br_px=1743,760&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
