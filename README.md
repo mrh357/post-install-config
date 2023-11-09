@@ -21,13 +21,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
--Create an admin user
-- create a help desk employee
-- create users to log in and create tickets
-- create SLA's to prioritize tickets
-- create basic reasons for tickets
-- use http://localhost/osTicket/scp/login.php for agent logins
-- use http://localhost/osTicket/ for user login to create tickets
+<h2>Post-install Configuration Objectives</h2>
+- Creating an admin help desk employee
+* Creating a helpdesk employee
+
 
 
 <h2>Configuration Steps</h2>
